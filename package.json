@@ -1,0 +1,22 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "A word guess game in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqyates/ConstructorHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqyates/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/cqyates/ConstructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
