@@ -5,3 +5,10 @@ My javascript constructor hangman game is build in Node.js and works with inquir
 
 ![hangman game](https://github.com/cqyates/ConstructorHangman/blob/master/screenshots/Screenshot%202019-07-14%2017.10.50.png)
 
+
+![hangman game](https://github.com/cqyates/ConstructorHangman/blob/master/screenshots/Screenshot%202019-07-14%2017.11.45.png)
+
+
+
+
+
