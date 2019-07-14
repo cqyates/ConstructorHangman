@@ -1,6 +1,6 @@
-let letter = require('./letter');
+let Letter = require('./Letter');
 
-let word = function(word) {
+let Word = function(word) {
     this.lettersArr = [];
     
     for(let i=0; i < word.length; i++){
@@ -19,7 +19,7 @@ let word = function(word) {
                wordString += "  ";
            }
            else{
-               wordString += element.displayLetter();
+               wordString += this.displayLetter();
            }
         });
         return wordString;

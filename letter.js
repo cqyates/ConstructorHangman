@@ -1,4 +1,4 @@
-let letter = function (letter) {
+let Letter = function (letter) {
     this.letter = letter;
     this.guessed = false;
 
@@ -19,4 +19,4 @@ let letter = function (letter) {
     }
 }
 
-module.exports = letter;
+module.exports = Letter;
