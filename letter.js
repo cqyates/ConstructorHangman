@@ -18,3 +18,5 @@ let letter = function (letter) {
         }
     }
 }
+
+module.exports = letter;
