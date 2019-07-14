@@ -3,7 +3,7 @@ let Letter = function (letter) {
     this.guessed = false;
 
 
-    this.displayletter = function () {
+    this.displayLetter = function () {
         if (this.guessed) {
             return this.letter + " ";
         }
